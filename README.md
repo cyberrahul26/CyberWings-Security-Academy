@@ -11,52 +11,37 @@ https://www.youtube.com/@cyberwingssecurity
 
 To build cybersecurity professionals from system internals upward — not from tools downward.
 
-This academy focuses on:
+---
 
-- Computer Internals for Security
-- Networking Architecture & Attack Surfaces
-- Security Foundations & Risk Models
-- Exploitation Mechanics
-- Defensive Architecture Thinking
+## 📘 Core Curriculum
+
+### 🔹 Computer Internals for Cybersecurity
+Understanding execution, memory, and exploitation mechanics.
+👉 [View Module](docs/computer-internals.md)
 
 ---
 
-## 📘 Core Training Modules
+### 🔹 Networking for Security Professionals
+Protocol-level attack surfaces and enterprise defense architecture.
+👉 [View Module](docs/networking-for-security.md)
 
-### 1️⃣ Computer Internals for Cybersecurity
-- Binary as hardware control
-- Boot process & firmware trust
-- CPU execution model
-- Registers & instruction pointer
-- Stack & memory behavior
-- Exploitation foundations
+---
 
-### 2️⃣ Networking for Security Professionals
-- OSI & TCP/IP attack mapping
-- DNS abuse & exfiltration
-- Packet structure analysis
-- Network defense architecture
-
-### 3️⃣ Security Fundamentals
-- CIA Triad
-- AAA Framework
-- Cryptography foundations
-- Risk management
-- Defense-in-depth
+### 🔹 Security Fundamentals
+Core principles of enterprise security architecture.
+👉 [View Module](docs/security-fundamentals.md)
 
 ---
 
 ## 🏢 Corporate Training Programs
 
-CyberWings Security delivers structured enterprise workshops:
+Structured enterprise workshops available:
 
 - System Internals & Exploitation Foundations
 - Enterprise Network Defense
 - SOC Analyst Bootcamp
-- Security Architecture Foundations
 
-Training enquiries:
-CyberWings Security
+👉 [View Training Outline](docs/corporate-training-outline.md)
 
 ---
 
